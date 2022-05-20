@@ -27,6 +27,13 @@
       "name": "giovanni",
       "surname": "kiriazis",
       "id": 4
+    },
+    {
+      "email": "rob@caccia@hotmail.it",
+      "password": "$2a$10$AgdbKyNYYDpLe6j0m34CdeJR1YIYHgeDw4WE/nY0iV1EZpYsGUTG2",
+      "name": "roberto",
+      "surname": "caccia",
+      "id": 5
     }
   ],
   "favourites": [
