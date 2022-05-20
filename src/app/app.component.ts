@@ -12,7 +12,7 @@ import { Component } from '@angular/core';
 
   #sfondo {
       background-image: url("../assets/popcorn.jpg");
-      background-position: center;
+      background-position: absolute;
       text-align: center;
       height: 500vh;
     }
